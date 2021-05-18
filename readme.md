@@ -1,6 +1,7 @@
 # blogly-backend
 Blogly is a simple but slick looking, full stack, blogging web application. This repo contains the Node.js/Express.js back-end component of Blogly. Front-end code can be accessed **[here](https://github.com/alexgenc/blogly-frontend)**.
 
+Live Demo: https://phobic-soda.surge.sh/
 
 ## Introduction 
 The back-end includes a classic RESTful API setup for /api/posts route. It's used for creating new blog posts, updating existing posts, deleting existing posts, and upvoting and downvoting posts. 
